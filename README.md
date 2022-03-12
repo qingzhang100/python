@@ -1,2 +1,2 @@
 # python
-et up local host on your own computer with python code
+Set up local host on your own computer with python code
